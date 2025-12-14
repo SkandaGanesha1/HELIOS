@@ -1,0 +1,8 @@
+﻿{
+  "name": "@helios/mobile",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "echo mobile build"
+  }
+}
